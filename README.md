@@ -28,4 +28,4 @@ Generates:
 
 
 Made by Wasef Hussain 🛠️
-Professional-grade port scanner for network and security analysis.
+Port scanner for network and security analysis.
