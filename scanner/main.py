@@ -35,7 +35,7 @@ def _print_header(targets, ports, workers, timeout, output_prefix, verbose):
     for ln in logo_lines:
         print(ln)
     print(f"Tool:  {__tool_name__}    Version: {__version__}")
-    print(f"Author: {__author__}    Contact: wasef@example.com")
+    print(f"Author: {__author__}    Contact: hussainwasef18@gmail.com")
     print(f"Run date: {tstamp}")
     print("-" * 72)
    
